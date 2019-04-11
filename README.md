@@ -1,0 +1,1 @@
+The player gently shakes the phone from side to side, and controls the movement of the monkey through the gravity sensing system of the mobile phone. If the monkey eats the banana during the movement, he can continue to jump upwards. If the distance exceeds a certain distance, the game will end!
